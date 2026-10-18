@@ -26,3 +26,5 @@ Orwell: Ignorance is Strength 简体中文汉化
 `Orwell-ZH-Backups`
 
 **请勿在确认不需要还原前删除该文件夹。**
+
+本项目使用 ChatGPT / Codex 辅助进行翻译、校对与技术实现，最终内容由人工审核并完成实机测试。
