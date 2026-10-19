@@ -1,7 +1,7 @@
 # orwell-ignorance-is-strength-zh
 Orwell: Ignorance is Strength 简体中文汉化
 
-《Orwell: Ignorance is Strength》个人简体中文本地化补丁，仅供交流与自用，请勿用于商业用途。
+《奥威尔：无知即力量》个人简体中文本地化补丁，仅供交流与自用，请勿用于商业用途。
 
 本项目使用 ChatGPT / Codex 辅助翻译与技术实现，最终内容由人工审核校对并完成实机测试。
 最新版本请前往 Releases 下载。
